@@ -21,6 +21,7 @@ Vue.use(Button);
 Vue.use(Row); 
 Vue.use(Col);
 
+
 Vue.config.productionTip = false
 
 //消息
